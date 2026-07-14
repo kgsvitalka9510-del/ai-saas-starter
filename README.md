@@ -1,5 +1,8 @@
 # 🚀 AI SaaS Starter
 
+[![GitHub stars](https://img.shields.io/github/stars/kgsvitalka9510-del/ai-saas-starter?style=social)](https://github.com/kgsvitalka9510-del/ai-saas-starter/stargazers)
+
+
 Production-ready SaaS starter with auth, billing, dashboard, and AI integration.
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
